@@ -1,8 +1,6 @@
 import {
   FaGithub,
-  FaInstagram,
   FaLinkedinIn,
-  FaXTwitter,
 } from "react-icons/fa6";
 import "./styles/SocialIcons.css";
 import { TbNotes } from "react-icons/tb";
@@ -64,12 +62,14 @@ const SocialIcons = () => {
             <FaGithub />
           </a>
         </span>
+
         <span>
           <a href="https://www.linkedin.com/in/sai-gite" target="_blank">
             <FaLinkedinIn />
           </a>
         </span>
       </div>
+
       <a className="resume-button" href="#contact">
         <HoverLinks text="RESUME" />
         <span>
