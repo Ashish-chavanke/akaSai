@@ -62,14 +62,12 @@ const SocialIcons = () => {
             <FaGithub />
           </a>
         </span>
-
         <span>
           <a href="https://www.linkedin.com/in/sai-gite" target="_blank">
             <FaLinkedinIn />
           </a>
         </span>
       </div>
-
       <a className="resume-button" href="#contact">
         <HoverLinks text="RESUME" />
         <span>
